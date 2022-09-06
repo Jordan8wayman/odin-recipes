@@ -1,0 +1,31 @@
+@font-face {
+    font-family: nordica;
+    src: url(font/Norse-KaWl.otf);
+    font-style: normal;
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: nordica;
+    src: url(font/Norsebold-2Kge.otf);
+    font-style: normal;
+    font-weight: bold;
+}
+
+.title {
+    font-size: 80px;
+    text-align: center;
+    font-family: nordica, 'Gill Sans MT', sans-serif;
+}
+
+.links {
+    display: table;
+    margin: 0 auto;
+    font-family: nordica, 'Gill Sans MT', sans-serif;
+    font-size: 40px;
+    color: black;
+}
+
+.viking {
+    text-align: center;
+}
